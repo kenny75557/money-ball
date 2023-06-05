@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/kenny75557/money-ball/static/css/main.a9442345.css",
+    "main.js": "/kenny75557/money-ball/static/js/main.75da345e.js",
+    "static/js/787.950fa173.chunk.js": "/kenny75557/money-ball/static/js/787.950fa173.chunk.js",
+    "static/media/logo.svg": "/kenny75557/money-ball/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/kenny75557/money-ball/index.html",
+    "main.a9442345.css.map": "/kenny75557/money-ball/static/css/main.a9442345.css.map",
+    "main.75da345e.js.map": "/kenny75557/money-ball/static/js/main.75da345e.js.map",
+    "787.950fa173.chunk.js.map": "/kenny75557/money-ball/static/js/787.950fa173.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9442345.css",
+    "static/js/main.75da345e.js"
+  ]
+}
